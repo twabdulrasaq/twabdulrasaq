@@ -55,7 +55,7 @@ img{
   float: left;
 }
 #nav-bar{
-  
+  width: 100%;
   
 }
 ul{
