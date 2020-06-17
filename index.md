@@ -11,6 +11,7 @@
     top: 0;
     height: 100px;
     display: flex;
+    width: 100%;
   
   
   
